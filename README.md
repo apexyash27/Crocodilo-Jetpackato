@@ -12,12 +12,12 @@
 ## Screenshots
 <table>
   <tr>
-    <td><img src="assets/sprites/1.png" alt="screenshot1" width="300"/></td>
-    <td><img src="assets/sprites/2.png" alt="screenshot2" width="300"/></td>
+    <td><img src="assets/sprites/1.png" alt="screenshot1" width="500"/></td>
+    <td><img src="assets/sprites/2.png" alt="screenshot2" width="500"/></td>
   </tr>
   <tr>
-    <td><img src="assets/sprites/3.png" alt="screenshot3" width="300"/></td>
-    <td><img src="assets/sprites/4.png" alt="screenshot4" width="300"/></td>
+    <td><img src="assets/sprites/3.png" alt="screenshot3" width="500"/></td>
+    <td><img src="assets/sprites/4.png" alt="screenshot4" width="500"/></td>
   </tr>
 </table>
 
